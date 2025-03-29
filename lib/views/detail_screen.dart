@@ -72,7 +72,7 @@ class _DetailScreenState extends State<DetailScreen> {
                             news?.data[widget.index].author ?? 'No Author',
                             style: TextStyle(
                               fontWeight: FontWeight.w500,
-                              fontSize: 15,
+                              fontSize: 16,
                             ),
                           ),
                           Text(
